@@ -5,7 +5,7 @@ import javax.swing.ImageIcon;
 
 /**
  * High-value or bonus mole.
- */
+ */ 
 public class BonusMole extends HoleOccupant {
 
     public BonusMole(int ticksRemaining) {
